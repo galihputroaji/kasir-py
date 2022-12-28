@@ -1,0 +1,27 @@
+[
+  {
+    "nama": "Ayam Bakar",
+    "harga": 20000,
+    "id": "1"
+  },
+  {
+    "nama": "Ayam Geprek",
+    "harga": 18000,
+    "id": "2"
+  },
+  {
+    "nama": "Ayam Penyet",
+    "harga": 15000,
+    "id": "3"
+  },
+  {
+    "nama": "Es Cappucino",
+    "harga": 5000,
+    "id": "4"
+  },
+  {
+    "nama": "Es Kopi Susu",
+    "harga": 5000,
+    "id": "5"
+  }
+]
